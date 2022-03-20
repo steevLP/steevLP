@@ -1,8 +1,14 @@
 ### Hi thee, I'm Maurice - aka steevLP
+[![Website](https://img.shields.io/website?label=slpnetwork.de&style=for-the-badge&url=https%3A%2F%2Fdummyapt.de)](https://slpnetwork.de)
+[![Twitter](https://img.shields.io/twitter/follow/theonly_steevLP?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/theonly_steevLP)
+
 - 🌱 I’m currently learning to use Angular, Nest.JS, JavaFX and working with databases
 - 👀 I’m interested in Java, JavaScript and administrating servers
 - ⚡ Fun fact: I like playing computer games
 
+<br>
+
+### Languages, Tools etc.:
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" />
 <img align="left" alt="IntelliJ IDEA Ultimate" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Java" width="26px" src="https://symbols.getvecta.com/stencil_25/38_java.bc46b9254c.png" />
