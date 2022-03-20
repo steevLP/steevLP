@@ -5,7 +5,7 @@
 
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" />
 <img align="left" alt="IntelliJ IDEA Ultimate" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
-<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" alt="Java" width="26px" src="https://symbols.getvecta.com/stencil_25/38_java.bc46b9254c.png" />
 <img align="left" alt="Spigot" width="26px" src="https://static.spigotmc.org/img/spigot.png" />
 <img align="left" alt="Discord.JS" width="26px" src="https://discord.js.org/android-chrome-192x192.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
