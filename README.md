@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=slpnetwork.de&style=for-the-badge&url=https%3A%2F%2Fdummyapt.de)](https://slpnetwork.de)
 [![Twitter](https://img.shields.io/twitter/follow/theonly_steevLP?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/theonly_steevLP)
 
-- 🌱 I’m currently learning to use go, Angular, Nest.JS, JavaFX and working with databases
+- 🌱 I’m currently learning to use go and working with databases
 - 👀 I’m interested in Java, JavaScript and administrating servers
 - ⚡ Fun fact: I like playing computer games
 
