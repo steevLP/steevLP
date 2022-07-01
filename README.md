@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/theonly_steevLP?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/theonly_steevLP)
 
 - 🌱 I’m currently learning to use go and working with databases
-- 👀 I’m interested in Java, JavaScript and administrating servers
+- 👀 I’m interested in Java, JavaScript, Typescript and Golang
 - ⚡ Fun fact: I like playing computer games
 
 ### Send me a Message
